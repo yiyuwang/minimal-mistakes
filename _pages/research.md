@@ -3,4 +3,4 @@ layout: single
 author_profile: true
 ---
 
-I love cats
+Some text here
