@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: http://yiyuwang.github.io/_pages/YiyuWang_CV.pdf
+    url: http://yiyuwang.github.io/_pages/YiyuWang_CV.pdf #http://127.0.0.1/4000
 
   - title: "Research Interest"
     url: http://yiyuwang.github.io/_pages/research
