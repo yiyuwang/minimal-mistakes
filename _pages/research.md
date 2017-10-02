@@ -3,4 +3,12 @@ layout: single
 author_profile: true
 ---
 
-My research interests center on learning and memory, and social cognition. I hope to incorporate experimental methods, computational models and neuroimaging techniques to tackle cognitive and neural mechanisms of these processes, and their dynamic interactions with the social context.  
+1. Motivational influences on visual perception: A computational account 
+2017 - present          
+  * Examined what people want to see influences what they report seeing
+
+
+2. Mental rehearsal procedure mitigates implicit bias	
+2015 - 2017
+  * Examined whether studying exemplars of a social group would increase implicit liking of and implicit association with the group
+	
